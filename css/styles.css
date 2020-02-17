@@ -58,9 +58,8 @@ h2 {
 }
 
 .bottom-cloud {
-  position: absolute;
+  position: relative;
   left: 300px;
-  top: 300px;
 }
 
 a{
