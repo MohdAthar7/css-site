@@ -58,7 +58,7 @@ h2 {
 }
 
 .bottom-cloud {
-  position: relative;
+  position: absolute;
   left: 300px;
 }
 
